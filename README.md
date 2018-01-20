@@ -1,0 +1,2 @@
+# WhatToMine_DiscordBot
+WhatToMine_DiscordBot
